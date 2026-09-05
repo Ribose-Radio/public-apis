@@ -1,0 +1,15 @@
+{
+  "catalogVersion": "2026-09-05T19:09:55Z",
+  "universes": [
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "initials": "CK",
+      "accentColor": "#111111",
+      "characterCount": 32,
+      "version": "46",
+      "updatedAt": "2026-09-05T19:09:55Z",
+      "endpoint": "https://res.cloudinary.com/ptqsr8ww/raw/upload/reelinreel/catalog/cricket.json"
+    }
+  ]
+}
