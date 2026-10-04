@@ -20,34 +20,6 @@
       "subtitle": "1 clip · Face cam",
       "icon": "emoji_emotions",
       "badge": "NEW"
-    },
-    {
-      "id": "cinematic_split",
-      "name": "Cinematic Split",
-      "subtitle": "2 clips · 21:9 crop",
-      "icon": "splitscreen",
-      "badge": null
-    },
-    {
-      "id": "before_after",
-      "name": "Before / After",
-      "subtitle": "2 clips · Wipe FX",
-      "icon": "layers",
-      "badge": null
-    },
-    {
-      "id": "green_screen_pro",
-      "name": "Green Screen Pro",
-      "subtitle": "3 clips · Keyed BG",
-      "icon": "videocam",
-      "badge": null
-    },
-    {
-      "id": "viral_sound_sync",
-      "name": "Viral Sound Sync",
-      "subtitle": "Trending · Auto-match",
-      "icon": "music_note",
-      "badge": null
     }
   ]
 }
